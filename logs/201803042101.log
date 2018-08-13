@@ -1,0 +1,31 @@
+2018-03-04 21:01:12,898 - BrowserEngine - INFO - You had select Chrome browser.
+2018-03-04 21:01:12,898 - BrowserEngine - INFO - The test server url is: https://www.baidu.com
+2018-03-04 21:01:17,766 - BrowserEngine - INFO - Starting Chrome browser.
+2018-03-04 21:01:23,937 - BrowserEngine - INFO - Open url: https://www.baidu.com
+2018-03-04 21:01:25,078 - BrowserEngine - INFO - Maximize the current window.
+2018-03-04 21:01:25,078 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-03-04 21:01:25,108 - BasePage - INFO - Had find the element '  ' successful by id via value: kw 
+2018-03-04 21:01:25,269 - BasePage - INFO - Had type ' selenium ' in inputBox
+2018-03-04 21:01:25,305 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='su'] 
+2018-03-04 21:01:25,476 - BasePage - INFO - The element '  ' was clicked.
+2018-03-04 21:01:27,875 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-03-04 21:01:27,880 - BasePage - INFO - Current page title is selenium_百度搜索
+2018-03-04 21:01:27,897 - BasePage - INFO - Had find the element '  ' successful by id via value: kw 
+2018-03-04 21:01:27,971 - BasePage - INFO - Had type ' python ' in inputBox
+2018-03-04 21:01:27,989 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='su'] 
+2018-03-04 21:01:28,045 - BasePage - INFO - The element '  ' was clicked.
+2018-03-04 21:01:30,436 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-03-04 21:01:33,496 - BrowserEngine - INFO - You had select Chrome browser.
+2018-03-04 21:01:33,496 - BrowserEngine - INFO - The test server url is: https://www.baidu.com
+2018-03-04 21:01:37,210 - BrowserEngine - INFO - Starting Chrome browser.
+2018-03-04 21:01:43,779 - BrowserEngine - INFO - Open url: https://www.baidu.com
+2018-03-04 21:01:44,918 - BrowserEngine - INFO - Maximize the current window.
+2018-03-04 21:01:44,918 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-03-04 21:01:44,924 - BasePage - INFO - Current page title is 百度一下，你就知道
+2018-03-04 21:01:47,999 - BrowserEngine - INFO - You had select Chrome browser.
+2018-03-04 21:01:47,999 - BrowserEngine - INFO - The test server url is: https://www.baidu.com
+2018-03-04 21:01:51,733 - BrowserEngine - INFO - Starting Chrome browser.
+2018-03-04 21:01:56,552 - BrowserEngine - INFO - Open url: https://www.baidu.com
+2018-03-04 21:01:57,687 - BrowserEngine - INFO - Maximize the current window.
+2018-03-04 21:01:57,688 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-03-04 21:02:05,894 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
